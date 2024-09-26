@@ -1,0 +1,1108 @@
+ 
+### Preguntas tipo examen de opción múltiple:  
+ 
+1. ¿Cuál es  la relación entre Machine Learning y la Inteligencia Artificial?  
+   - a) ML es un subcampo de la IA.  
+   - b) ML y IA son términos intercambiables.  
+   - c) ML no está relacionado con la IA.  
+   - d) Ninguna de las anteriores.  
+ 
+2. ¿Quiénes acuñaron el términ o "Inteligencia Artificial" en 1956?  
+   - a) Warren McCulloch y Walter Pitts.  
+   - b) John McCarthy, Marvin Minsky y Claude Shannon.  
+   - c) Alan Turing.  
+   - d) George Boole.  
+ 
+3. ¿Qué importante desarrollo en 1985 permitió a las computadoras aprender a pr onunciar 
+palabras como lo haría un niño?  
+   - a) La creación del algoritmo de "vecinos más cercanos".  
+   - b) El desarrollo de los sistemas expertos.  
+   - c) La invención del Perceptrón.  
+   - d) El programa NetTalk.  
+ 
+4. ¿Cuál de las siguientes afirmaciones  sobre la prueba de Turing es correcta?  
+   - a) La prueba de Turing determina si una máquina puede aprender.  
+   - b) La prueba de Turing define cómo evaluar la inteligencia de una máquina.  
+   - c) La prueba de Turing evalúa la eficiencia de las redes neuro nales.  
+   - d) La prueba de Turing compara la capacidad de cálculo entre humanos y máquinas.  
+ 
+5. ¿Qué evento marcó un avance significativo en 2016, demostrando la capacidad del Machine 
+Learning para vencer a profesionales humanos en un juego complejo?     - a) El desarrollo de Watson por IBM.  
+   - b) La creación de NetTalk.  
+   - c) La prueba de Turing.  
+   - d) La victoria de Google DeepMind sobre un jugador de Go.  
+ 
+6. ¿Qué tipo de computación escaló horizontalmente para superar el obstáculo de manejar 
+grandes volúmenes de datos en Machine Learning?  
+   - a) Computación en la nube.  
+   - b) Big Data.  
+   - c) Ley de Moore.  
+   - d) Transistores.  
+ 
+7. ¿Cuál es una característica fundamental de las redes neuronales según el texto?  
+   - a) Son fácilmente comprensi bles y explicables.  
+   - b) Funcionan mejor con poca cantidad de datos.  
+   - c) Operan como cajas negras.  
+   - d) No requieren aprendizaje previo.  
+ 
+¿Cuál es la diferencia fundamental entre la clasificación y la regresión en el aprendizaje 
+supervisado?  
+- a) La clasificación busca valores numéricos, mientras que la regresión categoriza.  
+- b) La clasificación tiene etiquetas categóricas, mientras que la regresión predice valores 
+continuos.  
+- c) La clasificación usa redes neuronales, mientras que la regresi ón utiliza árboles de decisión.  
+- d) La clasificación se realiza sin etiquetas, mientras que la regr esión requiere datos de salida.  
+ 
+¿Qué característica distingue al aprendizaje no supervisado del super visado?  
+- a) Utiliza redes neuronales en lugar de árboles de decisión.  
+- b) No requiere datos de entrada.  
+- c) Encuentra patrones sin etiquetas explícitas.  - d) Predice valores nu méricos en lugar de categorías.  
+**Pregunta de Examen:**  
+¿Cuál de los siguientes algoritmos se basa en la idea de clasificar una nueva instancia según las 
+categorías de los vecinos más cercanos?  
+- a) Árbol de Decisión.  
+- b) Perceptrón Simple.  
+- c) Sistemas Expertos.  
+- d) Vecinos más Cercanos (K -Vecinos).  
+ 
+### Preguntas  Tipo Examen de Opción Múltiple  
+**Pregunta 1:**  
+¿Qué se define en la primera etapa del flujo de trabajo en Data Science?  
+- a) Los datos necesarios para la investigación.  
+- b) Los modelos a utilizar en el análisis.  
+- c) Las p reguntas que queremos responder.  
+- d) La presentación de los resultados.  
+**Respuesta correcta**: c) Las preguntas que queremos responder.  
+ 
+ 
+**Pregunta 2:**  
+¿Qué se hace en la etapa de investigación del flujo de trabajo?  
+- a) Se presentan los resultado s obtenidos.  
+- b) Se obtienen, limpian y exploran los datos.  
+- c) Se analizan los datos con modelos.  
+- d) Se transfo rman los datos en conocimiento.  
+**Respuesta correcta**: b) Se obtienen , limp ian y exploran los datos.  
+**Pregunta 3:**  
+¿Cuál de las siguientes es una característica que se debe conocer al explorar los datos?  
+- a) Normalización.  - b) Distribución.  
+- c) Faltantes.  
+- d) Errores.  
+**Respues ta correcta**: b) Distribución.  
+**Pregunta 4:**  
+¿Qué es el tratamiento de datos fa ltantes?  
+- a) Normalizar los datos.  
+- b) Clasificar los datos.  
+- c) Manejar los datos ausentes.  
+- d) Agrupar los datos.  
+ 
+**Respuesta correcta**:  c) Manejar los datos ausentes.  
+ 
+**Pregunta 5:**  
+¿Por qué es importante transformar datos en Data Science?  
+- a) Porque los modelos de Machine Learning solo entienden de números.  
+- b) Porque es la última etapa del flujo de trabajo.  
+- c) Porque los datos siempre vienen en el formato adecuado.  
+- d) Porque los da tos cualitativos no son útiles.  
+**Respuesta correcta **: a) Porque los modelos de Machine Learning solo entienden de números.  
+ 
+**Pregunta 6:**  
+¿Qué tipo de encoding se utiliza para variables cualitativas ordinales?  
+- a) One -Hot Encoding.  
+- b) Label Encoding.  
+- c) Dummy Encoding.  
+- d) Frequency Encoding.  
+**Respuesta  correcta**: b) Label Encoding.  
+ **Pregunta 7:**  
+¿Cuál de las siguientes es una variable cualitativa nominal?  
+- a) Tamaño de una prenda.  
+- b) Nacionalidad.  
+- c) Rango etario.  
+- d) Altura.  
+**Respues ta correcta**: b) Nacionalidad.  
+ 
+**Pregunta 8:**  
+¿Qué técnica se utiliza para transformar variables cualitativas nominales?  
+- a) Label Encoding.  
+- b) Discretización.  
+- c) One -Hot Encoding.  
+- d) Normalización.  
+ 
+**Respuesta c orrecta** : c) One -Hot Encoding.  
+ 
+**Pregunta 9:**  
+¿Cuál de las  siguientes variables es cuantitativa?  
+- a) Color de auto.  
+- b) Tipo de vino.  
+- c) Peso.  
+- d) Nacionalidad.  
+**Respuesta correcta**: c) Peso.  
+ 
+ 
+**Pregunta 10:**  
+¿Cómo se llama la técnica de agrupar variables cuantitativas en rangos?  
+- a) Label Encoding.  - b) One -Hot Encoding.  
+- c) Discretización y Binning.  
+- d) Normalización.  
+**Respuesta correcta**: c) Discretización y Binning.  
+### Preguntas de Opción Múltiple sobre Scikit -Learn  
+ 
+#### Pregunta 1:  
+¿Qué es Scikit -Learn?  
+A) Un lenguaje de programación   
+B) Una librería de Machine Learning en  Python   
+C) Un sistema operativo   
+D) Un editor de texto   
+**Respuesta Correcta: B**  
+ 
+#### Pregunta 2:  
+¿Cuál de las siguientes afirmaciones es correcta sobre Scikit -Learn?  
+A) Se usa solo para procesamiento de imágenes   
+B) No tiene capacidad de procesami ento de datos   
+C) Se puede usar para modelos de clasificación y regresión   
+D) Solo funci ona con datos en formato JSON   
+**Respuesta Correcta: C**  
+ 
+#### Pregunta 3:  
+¿Qué método tienen todos los estimadores en Scikit -Learn?  
+A) transform()   
+B) predict()   
+C) fit()   
+D) score()   
+**Respuesta Correcta: C**   
+#### Pregunta 4:  
+¿Cuál de los siguientes métodos no pertenece a los transformadores en Scikit -Learn?  
+A) transform()   
+B) fit()   
+C) predict()   
+D) score()   
+**Respuesta Correcta: C**  
+ 
+####  Pregunta 5:  
+¿Qué función realiza la clase `SimpleImputer` en Scikit -Learn?  
+A) Codificar variables categóricas   
+B) Rellenar valores faltantes   
+C) Seleccionar los mejores atributos   
+D) Reescalar los datos   
+**Respuesta Correcta: B**  
+ 
+#### Pregunta 6:  
+¿Cuál es la diferencia principal entre `MinMax Scaler` y `Standard Scaler` en Scikit -Learn?  
+A) MinMax Scaler resta la media y divide por la desviación estándar   
+B) Standard Scaler normaliza entre dos límites definidos   
+C) MinMax Scaler normaliza entre dos límites definidos y Standard Scaler resta la media y divide 
+por la desviación estándar   
+D) Ambos son equivalentes   
+**Respuesta Correcta: C**  
+ 
+#### Pregunta 7:  
+¿Qué método de normalización puede ser más sensible a out liers?  
+A) MinMax Scaler   B) Standard Scaler   
+C) LabelEncoder   
+D) OneHotEncoder   
+**Respuesta Correcta: B**  
+ 
+#### Pregunta 8:  
+¿Cuál de las siguientes herramientas en Scikit -Learn se utiliza para convertir variables categóricas 
+en valores numéricos?  
+A) SimpleImputer   
+B) OneHotEncoder   
+C) LabelEncoder   
+D) SelectKBest   
+**Respuesta Correcta: C**  
+ 
+#### Pregunta 9:  
+¿Cuál es la medida que cuantifica la relación entre dos variables en un dataset?  
+A) Media   
+B) Desviación estándar   
+C) Covarianza   
+D) Moda   
+**Respuesta Correcta: C**  
+ 
+#### Pregunta 10:  
+¿Qué coeficiente se utiliza para medir la correlación lineal entre dos variables?  
+A) Covarianza   
+B) Media   
+C) Desviación estándar   
+D) Coeficiente de Pearson   
+**Respuesta Correcta: D**   
+#### Pregu nta 11:  
+Si el coeficiente de correlación es 0, ¿qué significa esto?  
+A) Existe una relación lineal perfecta   
+B) No existe una relación lineal, pero podría existir otra relación funcional   
+C) Las variables son inversamente proporcionales   
+D) Las variables  son dir ectamente proporcionales   
+**Respuesta Correcta: B**  
+ 
+#### Pregunta 12:  
+¿Cuál de las siguientes afirmaciones es correcta sobre la correlación de Pearson?  
+A) Siempre implica causalidad   
+B) Es útil solo para encontrar correlaciones no lineales   
+C) Es adimensional y útil para encontrar correlaciones lineales   
+D) No es sensible a outliers   
+**Respuesta Correcta: C**  
+ 
+### Preguntas de Opción Múltiple sobre Regresión Lineal  
+ 
+#### Pregunta 1:  
+¿Qué tipo de problema resuelve la regresión lineal?  
+A) Clasificación de imágenes   
+B) Clasificación de texto   
+C) Predicción de una variable numérica   
+D) Agrupación de datos   
+**Respuesta Correcta: C**  
+ 
+#### Pregunta 2:  
+En una regresión lineal simple, ¿qué representa la "b" en la ecuación de una recta?  A) La pendiente   
+B) El término de error   
+C) La ordenada al origen   
+D) La variable dependiente   
+**Respuesta Correcta: C**  
+ 
+#### Pregunta 3:  
+¿Qué propósito tiene el término de error épsilon en la ecuación de regresión lineal?  
+A) Representar la pendiente d e la recta   
+B) Incluir ruido y representar fenómenos aleatorios   
+C) Determinar la ordenada al origen   
+D) Prede cir la variable independiente   
+**Respuesta Correcta: B**  
+ 
+#### Pregunta 4:  
+¿Qué librería de Python NO se utiliza para realizar una regresión lineal?  
+A) pandas   
+B) numpy   
+C) matplotlib   
+D) tensorflow   
+**Respuesta Correcta: D**  
+ 
+#### Pregunta 5:  
+¿Qué método se utiliza para dividir un dataset en subconjuntos de entrenamiento y prueba en 
+Scikit -Learn?  
+A) train_split()   
+B) test_train_split()   
+C) train_test_split()   
+D) split_train_test()   **Respuesta Correcta: C**  
+ 
+#### Pregunta 6:  
+¿Cuántos datos se utilizaron para el subset de entrenamiento en el ejemplo dado?  
+A) 150   
+B) 350    
+C) 500   
+D) 200   
+ 
+**Respuesta Correcta: B**  
+ 
+#### Pregunta 7:  
+¿Cuál de las siguientes métricas no se utiliza para evaluar un modelo de regresión?  
+A) MAE (Mean Absolute Error)   
+B) MSE (Mean Squared Error)   
+C) RMSE (Root Mean Squared Error)   
+D) ROC (Receiver Operating Characteristic)   
+ 
+**Respuesta Correcta: D**  
+ 
+#### Pregunta 8:  
+¿Qué indica un valor de R2 cercano a 1 en un modelo de regresión lineal?  
+A) El modelo no es fiable   
+B) El modelo predice con baja fidelidad   
+C) El modelo predice co n alta fidelidad   
+D) No hay relación lineal entre las variables   
+ 
+**Respuesta Correcta: C**  
+#### Pregunta 9:  ¿Cuál es una desventaja del MSE (Mean Squared Error)?  
+A) No toma en cuenta valores absolutos   
+B) No tiene la misma magnitud ni unidad que la va riable Y   
+C) No es sensible a los valores atípicos   
+D) No se puede utilizar para modelos de regresión   
+ 
+**Respuesta Correcta: B**  
+ 
+#### Pregunta 10:  
+En el histograma de errores, ¿qué representan los puntos celestes en el gráfico de Y real vs Y 
+predicho?  
+A) Los valores predichos por el modelo   
+B) Los valores de la función de regresión lineal   
+C) Los valores reales de Y   
+D) Los valores  de la variable independiente   
+**Respuesta Correcta: C**  
+ 
+#### Pregunta 11:  
+¿Cuál es el valor aproximado de la raíz del error cuadrático medio en el subset de prueba según el 
+ejemplo?  
+A) 0.958   
+B) 1.063   
+C) 0.946   
+D) 0.500   
+**Respuesta Correcta: B**  
+#### Pregunta 12:  
+¿Qué indica un coeficiente de determinación (R2) de 0.946 en el modelo de regresión?  
+A) El modelo tiene un error alto   
+B) El modelo tiene un error bajo   
+C) El modelo predice con bastante fidelidad   D) El mode lo predice con baja fidelidad   
+**Respuesta Correcta: C**  
+Aquí tienes algunas preguntas de opción múlti ple basadas en el texto sobre regresión lineal 
+múltiple y polinómica:  
+ 
+### Preguntas de opción múltiple  
+ 
+1. ¿Qué caracteriza a una regresión lineal múltiple?  
+   - A) Utiliza un solo atributo para predecir la variable de salida.  
+   - B) Utiliza múltiples at ributos para predecir la variable de salida.  
+   - C) No incluye términos de error aleatorio.  
+   - D) Siempre produce un modelo no lineal.  
+ 
+2. ¿Cuál es la ecuación que se utiliza para generar el dataset en el ejemplo de regresión lineal 
+múltiple?  
+   - A) y = 3*x1 - 2*x2 + 4 + np.random.randn(n)  
+   - B) y = -3*x1 + 2*x2 + 4 + np.random.randn(n)  
+   - C) y = 2*x1 - 3*x2 + 4 + np.random.randn(n)  
+   - D) y = 4*x1 - 3*x2 + 2 + np.random.randn(n)  
+ 
+3. ¿Qué representa la ordenada al origen en una regresión lineal múltiple?  
+   - A) La pendiente de la relación entre los atributos y la variable de salida.  
+   - B) El valor de la variable de salida cuando todos los atributos son cero.  
+   - C) El valor de error aleatorio en el modelo.  
+   - D) La media de los valor es de los atributos.  
+ 
+4. ¿Qué biblioteca de Python se utiliza para dividir los datos en conjuntos de entrenamiento y 
+prueba?  
+   - A) NumPy  
+   - B) Pandas     - C) Scikit -Learn  
+   - D) Matplotlib  
+ 
+5. ¿Qué función se utiliza para calcular el error cuadrático medio en Scikit -Learn?  
+   - A) mean_absolute_error  
+   - B) mean_squared_error  
+   - C) r2_score  
+   - D) mean_error  
+ 
+6. ¿Cuál es la principal diferencia entre la regresión lineal simple y la regresión lineal múltiple?  
+   - A) La regresión lineal simple no in cluye ruido en los datos.  
+   - B) La regresión lineal múltiple incluye más de un atributo.  
+   - C) La regresión lineal simple es más precisa.  
+   - D) La regresión lineal múltiple no puede ser graficada.  
+ 
+7. ¿Qué es Polynomial Features en el contexto de Scikit -Learn?  
+   - A) Una clase para realizar regresiones lineales simples.  
+   - B) Una clase para generar nuevos atributos polinómicos a partir de los existentes.  
+   - C) Una métrica para evaluar el error d el modelo.  
+   - D) Un método para dividir los datos en entrenamiento y prueba.  
+ 
+8. ¿Cuál es el objetivo de utilizar una regresión lineal con atributos polinómicos?  
+   - A) Simplificar el modelo de regresión.  
+   - B) Adaptar el modelo a datos que no siguen una relación lineal.  
+   - C) Reducir el número de atributos en el modelo.  
+   - D) Aumentar la velocidad de entrenamiento del modelo.  
+ 
+9. ¿Qué significa un valor de R2 cercano a 1 en la evaluación de un modelo de regresión?  
+   - A) El modelo tiene un error alto.     - B) El modelo no es fiable.  
+   - C) El modelo se ajusta bien a los datos.  
+   - D) El modelo tiene muchos atributos.  
+ 
+10. ¿Cuál es una desventaja del MSE (Mean Squared Error) en comparación con el MAE (Mean 
+Absolute Error)?  
+    - A) El MSE no pued e ser calculado en Python.  
+    - B) El MSE no toma en cuenta los valores absolutos de los errores.  
+    - C) El MSE eleva los errores al cuadrado, lo que lo hace más sensible a valores atípicos.  
+    - D) El MSE siempre es menor que el MAE.  
+ 
+  
+### Lección 1: Modelos y Algoritmos  
+ 
+1. **¿Cuál es el propósito de utilizar algoritmos de Machine Learning en el análisis de datos?**  
+   - A) Mejorar la visualización de los datos  
+   - B) Entender la naturaleza del problema y los patrones subyacentes para realizar una 
+clasificación o una pred icción  
+   - C) Reducir el tamaño del conjunto de datos  
+   - D) Eliminar datos innecesarios  
+ 
+2. **¿Qué es el aprendizaje inductivo en el contexto de Machine Learning?**  
+   - A) Construir un modelo general a partir de información específica  
+   - B) Utilizar modelos preexistentes para resolver nuevos problemas  
+   - C) Aumentar la complejidad de los datos para mejorar el modelo  
+   - D) Ninguna de las anteriores  
+ 
+3. **¿Cuál de las siguientes afirmaciones describe el Sesgo Inductivo?**  
+   - A) Es la capacidad del  modelo para adaptarse a nuevos datos  
+   - B) Es el conjunto de afirmaciones que el algoritmo utiliza para construir un modelo  
+   - C) Es el proceso de eliminación de ruido en los datos  
+   - D) Es la capacidad de un modelo para realizar predicciones precis as 
+ 
+4. **¿Cuáles son las dos partes fundamentales del Aprendizaje Automático?**  
+   - A) Limpieza y Normalización  
+   - B) Aprendizaje (Entrenamiento) y Resolución (Cálculo de la predicción o de la clasificación)  
+   - C) Selección del Algoritmo y Evaluación de Calidad  
+   - D) Ajuste de Hiperparámetros y Métricas  
+ 
+### Lección 2: Modelos de Clasificación   
+5. **¿Cuál es el propósito de los algoritmos de clasificación en Machine Learning?**  
+   - A) Identificar la variable objetivo en un conjunto de datos  
+   - B) Diferenciar si un conjunto de datos pertenece a una determinada clase o a otra  
+   - C) Aumentar el tamaño del conjunto de datos  
+   - D) Reducir el número de atributos en el conjunto de datos  
+ 
+6. **¿Cuál de los siguientes NO es un modelo de clasific ación mencionado en el texto?**  
+   - A) Regresión logística  
+   - B) Árboles de decisión  
+   - C) Vecinos más cercanos  
+   - D) Redes neuronales  
+ 
+7. **En el aprendizaje supervisado, ¿cuál es la primera etapa?**  
+   - A) Entrenamiento del modelo  
+   - B) Identif icación de variables predictoras y la variable objetivo  
+   - C) Predicción con el modelo entrenado  
+   - D) Evaluación de la calidad del modelo  
+ 
+### Lección 3: Regresión Logística  
+ 
+8. **¿Qué tipo de variable objetivo utiliza la regresión logística?**  
+   - A) Continua  
+   - B) Categórica  
+   - C) Numérica  
+   - D) Ninguna de las anteriores  
+ 
+9. **¿Qué función se utiliza en la regresión logística para transformar la ecuación de regresión 
+lineal?**     - A) Función lineal  
+   - B) Función polinómica  
+   - C) Función sigmoidal  
+   - D) Función exponencial  
+ 
+### Lección 4: Árboles de Decisión  
+ 
+10. **¿Qué es un árbol de decisión en Machine Learning?**  
+    - A) Una estructura lineal que organiza datos en secuencias  
+    - B) Una estructura compuesta de nodos,  ramas y hojas que clasifica instancias mediante 
+preguntas  
+    - C) Un modelo de regresión basado en múltiples atributos  
+    - D) Ninguna de las anteriores  
+ 
+11. **¿Qué mide la impureza Gini en un árbol de decisión?**  
+    - A) La cantidad de datos perdidos  
+    - B) La pureza de un conjunto de datos basado en la homogeneidad de las etiquetas  
+    - C) La complejidad del modelo  
+    - D) La eficiencia del algoritmo  
+ 
+12. **¿Cuál es uno de los principales criterios para podar un árbol de decisión?**  
+    - A) Aumen tar la cantidad de nodos  
+    - B) Mejorar la visualización del modelo  
+    - C) Reducir la profundidad del árbol sin perder performance  
+    - D) Aumentar el número de preguntas realizadas  
+ 
+13. **¿Cuál es una ventaja de los árboles de decisión?**  
+    - A) Ti enen un poder de generalización muy alto en todas las circunstancias  
+    - B) Son fáciles de entender, interpretar y visualizar      - C) Siempre superan en desempeño a los modelos más modernos  
+    - D) Ninguna de las anteriores  
+ 
+¡Claro! Aquí tienes algunas preguntas de examen con opción múltiple basadas en el texto 
+proporcionado  sobre la Lección 5 de 8: Vecinos más cercanos (K -Nearest Neighbor):  
+ 
+### Pregunta 1  
+¿Cuál es la principal característica del algoritmo K -Nearest Neighbor?  
+- A) Aprende patrones complejos durante el entrenamiento.  
+- B) Predice la clasificación de un nuevo dato buscando a los K vecinos más cercanos.  
+- C) Utiliza una función sigmoidal para realizar predicciones.  
+- D) Requiere una gran cantidad de datos de prueba para entrenar.  
+ 
+*Respuesta correcta: B*  
+ 
+### Pregunta 2  
+¿Cuál de las siguientes métricas de distan cia es más comúnmente utilizada en K -Nearest 
+Neighbor?  
+- A) Distancia de Hamming  
+- B) Distancia Euclídea  
+- C) Distancia de Chebyshev  
+- D) Distancia de Mahalanobis  
+ 
+*Respuesta correcta: B*  
+ 
+### Pregunta 3  
+¿Qué característica hace que K -Nearest Neighbor sea considerado un "aprendiz perezoso"?  
+- A) No requiere almacenar los datos de entrenamiento.  
+- B) No realiza ningún aprendizaje durante el entrenamiento.  
+- C) Siempre predice con alta precisión sin importar los datos de entrada.  - D) Utiliza redes neuronales  para hacer predicciones.  
+ 
+*Respuesta correcta: B*  
+ 
+### Pregunta 4  
+¿Cuál es una desventaja principal del algoritmo K -Nearest Neighbor?  
+- A) No puede manejar datos categóricos.  
+- B) Es lento para entrenar.  
+- C) Requiere mucho espacio en disco.  
+- D) No se puede utilizar para problemas de regresión.  
+ 
+*Respuesta correcta: C*  
+ 
+### Pregunta 5  
+En K -Nearest Neighbor, ¿qué se suele utilizar para determinar la cantidad de vecinos a considerar 
+en la predicción?  
+- A) La media de las etiquetas de todos los datos de entrenamiento.  
+- B) La moda de las etiquetas de los K vecinos más cercanos.  
+- C) La mediana de las etiquetas de los K vecinos más cercanos.  
+- D) El valor de la etiqueta más lejana.  
+ 
+*Respuesta correcta: B*  
+ 
+### Pregunta 6  
+¿Cuál es una ventaja de K -Nearest Neighbor?  
+- A) Es complejo de interpretar.  
+- B) Entrenamiento rápido.  
+- C) No ocupa mucho espacio en disco.  
+- D) Funciona bien con datos de alta dimensionalidad.   
+*Respuesta correcta: B*  
+ 
+### Pregunta 7  
+¿Qué tipo de ponderación se puede aplicar en  K-Nearest Neighbor?  
+- A) Asignar el mismo peso a todos los vecinos independientemente de su distancia.  
+- B) Dar más importancia a los vecinos más lejanos.  
+- C) Asignar un peso en la votación a cada instancia vecina, dándole mayor importancia a las 
+cercanas y menos a las lejanas.  
+- D) Ponderar solo los vecinos que estén dentro de un radio fijo.  
+ 
+*Respuesta correcta: C*  
+ 
+### Pregunta 8  
+¿Qué significa que un mo delo de K -Nearest Neighbor sea robusto en un problema de clasificación 
+multiclase?  
+- A) Puede manejar múltiples etiquetas para una sola instancia.  
+- B) Puede clasificar correctamente en presencia de múltiples clases de salida.  
+- C) Siempre necesita reducir  las clases a un problema binario.  
+- D) Solo funciona con dos clases a la vez.  
+ 
+*Respuesta correcta: B*  
+ 
+### Pregunta 9  
+¿Cuál es una de las principales limitaciones del uso de la Distancia Euclídea en K -Nearest 
+Neighbor?  
+- A) No es aplicable en datos categ óricos.  
+- B) Es la única métrica de distancia disponible.  
+- C) No puede manejar datos de alta dimensionalidad de manera efectiva.  
+- D) Requiere normalización previa de los datos.   
+*Respuesta correcta: C*  
+ 
+### Pregunta 10  
+¿Por qué K -Nearest Neighbor puede n o comportarse adecuadamente en datasets con muchas 
+dimensiones (high dimensional data)?  
+- A) Porque el algoritmo no puede manejar más de dos dimensiones.  
+- B) Porque las distancias entre puntos se vuelven menos significativas a medida que aumenta la 
+dimens ionalidad.  
+- C) Porque siempre requiere un kernel para proyectar los datos.  
+- D) Porque solo funciona con datos numéricos.  
+ 
+*Respuesta correcta: B*  
+¡Claro! Aquí tienes algunas preguntas de examen con opción múltiple basadas en el texto 
+proporcionado sobre la Lección 7 de 8: La Entropía y la Información:  
+ 
+### Pregunta 1  
+¿Qué es la entropía según la Segunda Ley de la Termodinámica?  
+- A) La cantidad de e nergía en un sistema cerrado.  
+- B) La medida de desorden o multiplicidad de un estado.  
+- C) La velocidad a la que un gas se expande.  
+- D) La cantidad de calor necesaria para cambiar el estado de una sustancia.  
+ 
+*Respuesta correcta: B*  
+ 
+### Pregunta 2  
+¿Por qué un gas se expande y ocupa toda la caja cuando se quita un separador?  
+- A) Porque es su estado menos probable.  
+- B) Porque es su estado más probable.  
+- C) Porque la presión aumenta.  - D) Porque disminuye su energía.  
+ 
+*Respuesta correcta: B*  
+ 
+### Pregunt a 3 
+En el ejemplo de tirar dos dados, ¿cuál es la suma con más combinaciones posibles?  
+- A) 6 
+- B) 7 
+- C) 8 
+- D) 9 
+ 
+*Respuesta correcta: B*  
+ 
+### Pregunta 4  
+¿Cómo se transforma la distribución de probabilidad al aumentar el número de dados utilizados?  
+- A) Se vuelve más dispersa.  
+- B) Se vuelve más concentrada en los extremos.  
+- C) Se vuelve más marcada hacia su centro.  
+- D) Se mantiene igual.  
+ 
+*Respuesta correcta: C*  
+ 
+### Pregunta 5  
+¿Qué mide la entropía en relación a los estados de un sistema?  
+- A) La  energía total del sistema.  
+- B) La probabilidad de encontrar un estado debido a su multiplicidad.  
+- C) La velocidad a la que cambia el estado del sistema.  
+- D) La cantidad de calor intercambiado.  
+ *Respuesta correcta: B*  
+ 
+### Pregunta 6  
+¿Por qué un estado  con alta entropía es muy probable?  
+- A) Porque requiere menos energía para alcanzarse.  
+- B) Porque tiene muchas formas posibles equivalentes para alcanzarse.  
+- C) Porque está en un sistema cerrado.  
+- D) Porque tiene menos configuraciones posibles.  
+ 
+*Respu esta correcta: B*  
+ 
+### Pregunta 7  
+¿Qué implica el estado de máxima entropía en términos de información?  
+- A) Máxima ganancia de información.  
+- B) Mayor pérdida de información.  
+- C) Menor probabilidad de ocurrencia.  
+- D) Mayor cantidad de energía almacenada.  
+ 
+*Respuesta correcta: B*  
+ 
+### Pregunta 8  
+¿Cuál es la relación entre entropía e información cuando un gas tiene moléculas en un solo lado de 
+la caja?  
+- A) Máxima entropía y máxima información.  
+- B) Mínima entropía y mínima información.  
+- C) Mínima entropía y máxima información.  
+- D) Máxima entropía y mínima información.  
+ 
+*Respuesta correcta: C*   
+### Pregunta 9  
+¿Qué significa que el Universo tiende a aumentar la entropía?  
+- A) El Universo tiende a volverse más ordena do. 
+- B) El Universo tiende a volverse más desordenado.  
+- C) El Universo tiende a disminuir la energía.  
+- D) El Universo tiende a reducir la probabilidad de estados.  
+ 
+*Respuesta correcta: B*  
+ 
+### Pregunta 10  
+¿Cuál es la definición de entropía proporcionada en el texto?  
+- A) Un sistema aislado evoluciona siempre hacia un estado donde aumenta su energía.  
+- B) Un sistema aislado evoluciona siempre hacia un estado donde disminuye su información.  
+- C) Un sistema ai slado evoluciona siempre hacia un estado donde aumenta su información 
+perdida.  
+- D) Un sistema aislado evoluciona siempre hacia un estado donde disminuye su entropía.  
+ 
+*Respuesta correcta: C*  Claro, aquí tienes algunas preguntas de examen con opción múltipl e basadas en el texto 
+proporcionado sobre la Lección 1 de 7: Balanceo de dataset.  
+ 
+### Pregunta 1  
+¿Qué significa que un dataset esté desbalanceado?  
+- A) Que todas las clases tienen el mismo número de instancias.  
+- B) Que hay una prevalencia de una clase so bre otra.  
+- C) Que los datos están distribuidos equitativamente.  
+- D) Que no hay suficientes datos para entrenar el modelo.  
+ 
+*Respuesta correcta: B*  
+ 
+### Pregunta 2  
+¿Cuál de los siguientes es un ejemplo de un dataset desbalanceado mencionado en el texto?  
+- A) Transacciones fraudulentas con tarjetas de crédito.  
+- B) Precios de viviendas.  
+- C) Calificaciones de estudiantes.  
+- D) Datos meteorológicos.  
+ 
+*Respuesta correcta: A*  
+ 
+### Pregunta 3  
+¿Por qué un modelo puede tener una alta exactitud en un dataset desba lanceado?  
+- A) Porque identifica correctamente todas las instancias de la clase minoritaria.  
+- B) Porque las clases están igualmente representadas.  
+- C) Porque acierta en casi todas las transacciones que no son de la clase minoritaria.  
+- D) Porque el dataset es muy grande.  
+ 
+*Respuesta correcta: C*   
+### Pregunta 4  
+¿Qué es la paradoja de la exactitud?  
+- A) Un modelo que siempre predice la clase minoritaria tendrá alta exactitud.  
+- B) Un modelo que asume que un evento raro no ocurrirá tendr á alta exactitud.  
+- C) Un modelo que nunca se equivoca tendrá baja exactitud.  
+- D) Un modelo que predice al azar tendrá alta exactitud.  
+ 
+*Respuesta correcta: B*  
+ 
+### Pregunta 5  
+¿Cuál de las siguientes NO es una estrategia para tratar con un dataset desbala nceado?  
+- A) Revisar la posibilidad de conseguir nuevos datos.  
+- B) Utilizar una métrica diferente a la exactitud.  
+- C) Ignorar el desbalance y entrenar el modelo normalmente.  
+- D) Realizar un remuestreo (oversampling o undersampling).  
+ 
+*Respuesta correcta : C* 
+ 
+### Pregunta 6  
+¿Qué implica el oversampling en el contexto de datasets desbalanceados?  
+- A) Eliminar instancias de la clase minoritaria.  
+- B) Generar nuevas instancias de la clase minoritaria.  
+- C) Eliminar instancias de la clase mayoritaria.  
+- D) Dividir el dataset en partes iguales.  
+ 
+*Respuesta correcta: B*  
+ 
+### Pregunta 7  ¿Qué es la precisión (precision) en la evaluación de modelos de clasificación?  
+- A) La proporción de verdaderos positivos sobre el total de muestras seleccionadas.  
+- B) La proporción de verdaderos positivos sobre los verdaderos positivos más los falsos negativos.  
+- C) La proporción de verdaderos negativos sobre los verdaderos negativos más los falsos 
+positivos.  
+- D) La proporción de verdaderos positivos sobre el total de pre dicciones.  
+ 
+*Respuesta correcta: A*  
+ 
+### Pregunta 8  
+¿Qué métrica combina la precisión y la exhaustividad (recall)?  
+- A) Exactitud (accuracy).  
+- B) Matriz de confusión.  
+- C) Curva ROC.  
+- D) Puntuación F1.  
+ 
+*Respuesta correcta: D*  
+ 
+### Pregunta 9  
+¿Qué repres enta la exhaustividad (recall) en la evaluación de modelos de clasificación?  
+- A) Qué tan bien el modelo detecta la clase de interés.  
+- B) Qué tan confiable es el modelo al predecir una clase.  
+- C) La proporción de verdaderos negativos identificados por el  modelo.  
+- D) La proporción de falsos positivos sobre el total de predicciones.  
+ 
+*Respuesta correcta: A*  
+ 
+### Pregunta 10  
+¿Qué estrategia implica eliminar registros de la clase sobrerrepresentada en un dataset 
+desbalanceado?  - A) Oversampling.  
+- B) Undersampling.  
+- C) Matriz de confusión.  
+- D) Puntuación F1.  
+ 
+*Respuesta correcta: B*  
+ 
+Aquí tienes una serie de preguntas de examen con opción múltiple basadas en el texto sobre la 
+Curva ROC:  
+ 
+1. **¿Qué representa gráficamente la curva ROC?**  
+    - A) La relación entre la tasa de verdaderos positivos (TPR) y la tasa de falsos negativos (FNR).  
+    - B) La relación entre la tasa de falsos positivos (FPR) y la tasa de verdaderos positivos (TPR).  
+    - C) La relación entre la precisión y la exhaustividad.  
+    - D) La relación entre la especificidad y la sensibilidad.  
+ 
+    **Respuesta correcta: B) La relación entre la tasa de falsos positivos (FPR) y la tasa de 
+verdaderos positivos (TPR).**  
+ 
+2. **¿Qué describe la tasa de verdaderos positivos (TPR)?**  
+    - A) La probabilidad de que un evento negativo sea clasificado correctamente.  
+    - B) La probabilidad de que un evento positivo sea clasificado incorrectamente.  
+    - C) Qué tan bueno es el modelo para predecir la clase positiva cuando el resultado real es 
+positivo.  
+    - D) Qué tan bueno es el modelo para predecir la clase negativa cuando el resultado real es 
+negativo.  
+ 
+    **Respuesta correcta: C) Qué tan bueno es el modelo para predecir la clase positiva cuando el 
+resultado real es positivo.**  
+ 
+3. **¿Cómo se  denomina la tasa de falsos positivos (FPR)?**      - A) Tasa de falsos negativos.  
+    - B) Tasa de verdaderos negativos.  
+    - C) Tasa de falsas alarmas.  
+    - D) Tasa de exactitud.  
+ 
+    **Respuesta correcta: C) Tasa de falsas alarmas.**  
+ 
+4. **¿Qué indica el área bajo la curva ROC (AUC)?**  
+    - A) La exactitud del modelo.  
+    - B) La probabilidad de que el modelo clasifique todas las etiquetas correctamente.  
+    - C) La probabilidad de que el modelo sea capaz de distinguir entre una clase y la otra.  
+    - D) La relación entre la tasa de precisión y la tasa de exhaustividad.  
+ 
+    **Respuesta correcta: C) La probabilidad de que el modelo sea capaz de distinguir entre una 
+clase y la otra.**  
+ 
+5. **¿Cuál es el valor de AUC para un modelo que cla sifica todas las etiquetas correctamente?**  
+    - A) 0 
+    - B) 0.5  
+    - C) 1 
+    - D) 0.75  
+ 
+    **Respuesta correcta: C) 1**  
+ 
+6. **¿Qué implica un AUC de 0.5?**  
+    - A) El modelo clasifica todas las etiquetas al revés.  
+    - B) El modelo no distingue me jor que el azar entre las clases.  
+    - C) El modelo clasifica correctamente todas las etiquetas.  
+    - D) El modelo tiene una alta tasa de falsos negativos.   
+    **Respuesta correcta: B) El modelo no distingue mejor que el azar entre las clases.**  
+ 
+7. **Si un modelo tiene un AUC de 0, ¿qué significa?**  
+    - A) El modelo tiene una precisión perfecta.  
+    - B) El modelo clasifica todas las etiquetas correctamente.  
+    - C) El modelo clasifica todas las etiquetas al revés.  
+    - D) El modelo no tiene n inguna capacidad de predicción.  
+ 
+    **Respuesta correcta: C) El modelo clasifica todas las etiquetas al revés.**  
+ 
+8. **¿Cuál es la relación entre la sensibilidad y la especificidad en la curva ROC?**  
+    - A) A medida que la sensibilidad aumenta, la espec ificidad también aumenta.  
+    - B) La curva ROC no muestra la relación entre la sensibilidad y la especificidad.  
+    - C) A medida que la sensibilidad aumenta, la especificidad disminuye.  
+    - D) La sensibilidad y la especificidad son independientes entre  sí. 
+ 
+    **Respuesta correcta: C) A medida que la sensibilidad aumenta, la especificidad disminuye.**  
+ 
+9. **¿Qué tipo de modelo tendrá un AUC igual a 1?**  
+    - A) Un modelo que clasifica todas las etiquetas de manera aleatoria.  
+    - B) Un modelo que cla sifica todas las etiquetas correctamente.  
+    - C) Un modelo que clasifica todas las etiquetas al revés.  
+    - D) Un modelo que clasifica la mitad de las etiquetas correctamente.  
+ 
+    **Respuesta correcta: B) Un modelo que clasifica todas las etiquetas cor rectamente.**  
+ 
+10. **¿Qué herramienta o métrica se recomienda usar para evaluar modelos de clasificación 
+binaria y comparar la sensibilidad y la especificidad?**      - A) Matriz de confusión.  
+    - B) Curva ROC.  
+    - C) Exactitud (accuracy).  
+    - D) Precisión (precision).  
+ 
+    **Respuesta correcta: B) Curva ROC.**  Claro, aquí tienes algunas preguntas de opción múltiple basadas en el texto proporcionado sobre 
+Validación Cruzada:  
+ 
+1. **¿Cuál es el objetivo principal de la validación cruzada?**  
+   - A) Mejorar la velocidad de entrenamiento del modelo.  
+   - B) Obtener una evaluación de performance independiente de la partición en entrenamiento y 
+prueba de los datos.  
+   - C) Reducir el tamaño del conjunto de datos.  
+   - D) Aumentar la complejidad d el modelo.  
+ 
+   **Respuesta correcta:** B  
+ 
+2. **¿Qué significa "K" en K -fold Cross Validation?**  
+   - A) El número de modelos diferentes entrenados.  
+   - B) El número de hiperparámetros optimizados.  
+   - C) El número de grupos en que se divide una muestra d e datos.  
+   - D) El número de datos en el conjunto de prueba.  
+ 
+   **Respuesta correcta:** C  
+ 
+3. **En K -fold Cross Validation, cada dato aparece:**  
+   - A) Una sola vez en los datos de entrenamiento y nunca en los datos de prueba.  
+   - B) Una sola vez en lo s datos de prueba y K -1 veces en los datos de entrenamiento.  
+   - C) K veces en los datos de prueba.  
+   - D) En todos los folds como dato de prueba.  
+ 
+   **Respuesta correcta:** B  
+ 
+4. **¿Cuál de las siguientes afirmaciones es verdadera sobre la validación c ruzada aleatoria?**  
+   - A) Cada dato puede aparecer más de una vez en el conjunto de prueba.     - B) Cada dato aparece solo una vez en el conjunto de prueba.  
+   - C) No se utiliza en Machine Learning.  
+   - D) Solo se aplica a modelos lineales.  
+ 
+   **Respuesta correcta:** A  
+ 
+5. **¿Qué proceso se sigue en el Paso 2 de la validación cruzada aleatoria?**  
+   - A) Separar los datos en conjuntos de entrenamiento y prueba.  
+   - B) Evaluar el desempeño del modelo elegido en el conjunto de Held -Out.  
+   - C) Realizar todas las pruebas necesarias dentro del conjunto de desarrollo y evaluar los 
+modelos resultantes.  
+   - D) Dividir aleatoriamente los datos en K folds.  
+ 
+   **Respuesta correcta:** C  
+ 
+6. **¿Por qué es importante la validación cruzada en el context o de Machine Learning?**  
+   - A) Para reducir el tiempo de entrenamiento.  
+   - B) Para asegurar que los modelos no están sobreajustados a una única partición de datos.  
+   - C) Para aumentar el tamaño del conjunto de datos.  
+   - D) Para simplificar el model o. 
+ 
+   **Respuesta correcta:** B  
+ 
+7. **En el contexto de K -fold Cross Validation, ¿qué es una "fold"?**  
+   - A) Un parámetro que ajusta la complejidad del modelo.  
+   - B) Un grupo de datos de prueba.  
+   - C) Una subdivisión del conjunto de datos.  
+   - D) U n modelo entrenado específico.  
+    **Respuesta correcta:** C  
+ 
+8. **¿Qué se debe hacer después de realizar el proceso de K -fold Cross Validation?**  
+   - A) Utilizar los mismos datos de entrenamiento y prueba sin cambiar nada.  
+   - B) Obtener una medida de performance del modelo como el promedio de las evaluaciones 
+obtenidas.  
+   - C) Ajustar el modelo para que tenga un K mayor.  
+   - D) Entrenar el modelo con todos los datos de prueba.  
+ 
+   **Respuesta correcta:** B  
+ 
+9. **¿Cuál es  una de las ventajas principales de K -fold Cross Validation en comparación con una 
+simple división de train/test?**  
+   - A) Reduce la complejidad del modelo.  
+   - B) Da una estimación menos sesgada o menos optimista de la habilidad del modelo.  
+   - C) Aume nta la cantidad de datos de prueba.  
+   - D) Simplifica el proceso de entrenamiento.  
+ 
+   **Respuesta correcta:** B  
+ 
+10. **En la validación cruzada, ¿por qué es útil medir la varianza de las métricas obtenidas?**  
+    - A) Para entender cuánto puede afectar h aber elegido un grupo de datos de test u otro.  
+    - B) Para reducir el tiempo de procesamiento.  
+    - C) Para aumentar la precisión de los modelos.  
+    - D) Para simplificar el análisis de los datos.  
+ 
+    **Respuesta correcta:** A  
+Claro, aquí tienes alguna s preguntas de opción múltiple basadas en el texto proporcionado sobre 
+la Optimización de Hiperparámetros:  
+ 1. **¿Qué es lo primero que se debe definir para optimizar los hiperparámetros de un modelo?**  
+   - A) El tamaño del conjunto de datos.  
+   - B) Una métrica a optimizar.  
+   - C) El tipo de hardware a utilizar.  
+   - D) La duración del entrenamiento.  
+ 
+   **Respuesta correcta:** B  
+ 
+2. **¿Cuál de los siguientes métodos implica probar todas las combinaciones posibles de 
+hiperparámetros?**  
+   - A) Random Search.  
+   - B) Grid Search.  
+   - C) Validación Cruzada.  
+   - D) Regularización L2.  
+ 
+   **Respuesta correcta:** B  
+ 
+3. **¿Qué se hace en el paso 3 del Grid Search?**  
+   - A) Elegir los valores que puede tomar cada hiperparámetro.  
+   - B) Reco rrer la grilla entrenando el modelo para cada combinación y evaluarlo.  
+   - C) Evaluar el modelo con Validación Cruzada.  
+   - D) Definir una métrica a optimizar.  
+ 
+   **Respuesta correcta:** B  
+ 
+4. **¿Cuál es una ventaja de Random Search sobre Grid Search?**  
+   - A) Proporciona una evaluación exacta.  
+   - B) Es computacionalmente menos demandante.  
+   - C) No requiere definir una métrica a optimizar.     - D) Siempre encuentra la mejor combinación de hiperparámetros.  
+ 
+   **Respuesta correcta:** B  
+ 
+5. **¿Qué mid e la varianza en el contexto de la regularización?**  
+   - A) La aleatoriedad en los datos de prueba.  
+   - B) La consistencia de la predicción del modelo para una instancia de muestra.  
+   - C) El error sistemático que no procede de la aleatoriedad.  
+   - D) La cantidad de datos irrelevantes en el conjunto de datos.  
+ 
+   **Respuesta correcta:** B  
+ 
+6. **¿Qué técnica de regularización produce vectores de características dispersas con la mayoría 
+de los pesos de características en cero?**  
+   - A) Regulariza ción L1.  
+   - B) Regularización L2.  
+   - C) Validación Cruzada.  
+   - D) Grid Search.  
+ 
+   **Respuesta correcta:** A  
+ 
+7. **¿Cuál es el propósito del parámetro lambda en la regularización?**  
+   - A) Elegir los valores de hiperparámetros.  
+   - B) Definir el ta maño del conjunto de datos.  
+   - C) Actuar como el parámetro de regularización que penaliza los valores extremos de los 
+parámetros.  
+   - D) Seleccionar el modelo a partir del desempeño.  
+ 
+   **Respuesta correcta:** C  
+ 8. **¿Qué sucede si se aumenta excesiva mente el parámetro de regularización en L2?**  
+   - A) Los coeficientes de peso aumentan.  
+   - B) Los coeficientes de peso se aproximan a cero.  
+   - C) La varianza del modelo aumenta.  
+   - D) El modelo se vuelve más complejo.  
+ 
+   **Respuesta correcta:** B  
+ 
+9. **¿Qué método combina Grid Search y Validación Cruzada?**  
+   - A) Regularización L1.  
+   - B) Random Search.  
+   - C) Búsqueda de cuadrícula.  
+   - D) Validación cruzada con grid search.  
+ 
+   **Respuesta correcta:** D  
+ 
+10. **¿Cuál es uno de los principales beneficios de usar la regularización en modelos de Machine 
+Learning?**  
+    - A) Mejora la velocidad de entrenamiento.  
+    - B) Reduce la dependencia del modelo en los datos de entrenamiento y previene el sobreajuste.  
+    - C) Incrementa el tamaño del conju nto de datos.  
+    - D) Facilita la interpretación de los resultados.  
+ 
+    **Respuesta correcta:** B  Aquí tienes algunas preguntas de opción múltiple basadas en el texto proporcionado sobre series 
+de tiempo y sus componentes:  
+ 
+1. **¿Qué es una serie de tiemp o?**  
+   - A) Una secuencia de valores tomados de diferentes objetos de estudio en un momento 
+específico.  
+   - B) Una secuencia de valores ordenados en el tiempo, siguiendo a una unidad de observación.  
+   - C) Un conjunto de datos sin ninguna ordenación esp ecífica.  
+   - D) Una colección de eventos aleatorios.  
+ 
+   **Respuesta correcta:** B  
+ 
+2. **¿Cuál de las siguientes es una serie de tiempo univariable?**  
+   - A) Temperatura de la ciudad de Rosario en el periodo 2015 -2017.  
+   - B) Cotización de múltiples act ivos financieros en el año 2020.  
+   - C) Ventas y gastos de una compañía en el último semestre.  
+   - D) Niveles de contaminación en varias ciudades durante 2020.  
+ 
+   **Respuesta correcta:** A  
+ 
+3. **¿Qué indica la frecuencia de muestreo en una serie de tiempo?**  
+   - A) El número total de registros en el dataset.  
+   - B) Cada cuánto se guardó un registro o se realizó una medición.  
+   - C) La variabilidad de los datos en el tiempo.  
+   - D) La cant idad de anomalías presentes en los datos.  
+ 
+   **Respuesta correcta:** B  
+ 
+4. **¿Qué método se usa para agrupar datos por algún intervalo de tiempo estable en series de 
+tiempo?**     - A) Regularización L1.  
+   - B) Resampleo.  
+   - C) Validación Cruzada.  
+   - D) Grid Search.  
+ 
+   **Respuesta correcta:** B  
+ 
+5. **¿Qué define la ventana temporal en una serie de tiempo?**  
+   - A) La cantidad de datos irrelevantes en el conjunto de datos.  
+   - B) El espacio de muestreo de los datos, desde el inicio hasta el final.  
+   - C) La frecuencia de muestreo utilizada.  
+   - D) La técnica de resampleo aplicada.  
+ 
+   **Respuesta correcta:** B  
+ 
+6. **¿Qué tipo de serie de tiempo es más fácil de modelar?**  
+   - A) Una serie no estacionaria.  
+   - B) Una serie aleatoria.  
+   - C) Una serie estacionaria.  
+   - D) Una serie con múltiples variables.  
+ 
+   **Respuesta correcta:** C  
+ 
+7. **¿Cuál de los siguientes es un componente de las series de tiempo que se refiere a 
+fluctuaciones a largo plazo?**  
+   - A) Tendencia.  
+   - B) Estac ionalidad.  
+   - C) Ciclo.  
+   - D) Ruido blanco.   
+   **Respuesta correcta:** C  
+ 
+8. **¿Qué componente de las series de tiempo describe shocks aleatorios con media cero y 
+varianza finita?**  
+   - A) Tendencia.  
+   - B) Estacionalidad.  
+   - C) Ciclo.  
+   - D) Rui do blanco.  
+ 
+   **Respuesta correcta:** D  
+ 
+9. **¿Qué tipo de modelo predictivo en series de tiempo se enfoca en predecir únicamente el 
+siguiente valor de la serie?**  
+   - A) One step.  
+   - B) Multi step.  
+   - C) ARIMA.  
+   - D) Prophet.  
+ 
+   **Respuesta corre cta:** A  
+ 
+10. **¿Cuál de los siguientes modelos incluye componentes para la detección de anomalías, 
+análisis de estacionalidad y estudios de tendencia?**  
+    - A) ARIMA.  
+    - B) One step.  
+    - C) Multi step.  
+    - D) Prophet.  
+ 
+    **Respuesta correcta:** D  
