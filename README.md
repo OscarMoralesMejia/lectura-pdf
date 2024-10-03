@@ -7,7 +7,7 @@ Por lo que en este proyecto se pueden encontrar 2 situaciones:
 Aqui uso la función extract_text_from_pdf y para guardar el resultado de la lectura uso la función save_text_to_file.
 
 - 2.- Leer datos de varios archivos pdf situados en una carpeta
-Para leer varios archivos pdf de una carpeta uso la función process_pdfs_in_folder.
+Para leer varios archivos pdf de una carpeta uso la función process_pdfs_in_folder.En este caso se genera un archivo de salida por cada pdf procesado
 
 Este proyecto esta hecho en lenguaje python. el codigo principal esta en el archivo notebook lector_pdf.ipynb
 
